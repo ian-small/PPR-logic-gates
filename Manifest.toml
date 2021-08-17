@@ -28,9 +28,9 @@ version = "0.1.0"
 
 [[ArrayInterface]]
 deps = ["IfElse", "LinearAlgebra", "Requires", "SparseArrays", "Static"]
-git-tree-sha1 = "cdb00a6fb50762255021e5571cf95df3e1797a51"
+git-tree-sha1 = "045ff5e1bc8c6fb1ecb28694abba0a0d55b5f4f5"
 uuid = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
-version = "3.1.23"
+version = "3.1.17"
 
 [[ArrayLayouts]]
 deps = ["FillArrays", "LinearAlgebra", "SparseArrays"]
@@ -1102,9 +1102,9 @@ version = "1.6.1"
 
 [[Static]]
 deps = ["IfElse"]
-git-tree-sha1 = "62701892d172a2fa41a1f829f66d2b0db94a9a63"
+git-tree-sha1 = "2740ea27b66a41f9d213561a04573da5d3823d4b"
 uuid = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
-version = "0.3.0"
+version = "0.2.5"
 
 [[StaticArrays]]
 deps = ["LinearAlgebra", "Random", "Statistics"]

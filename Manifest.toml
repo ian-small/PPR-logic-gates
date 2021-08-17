@@ -1084,9 +1084,9 @@ uuid = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
 [[SparseDiffTools]]
 deps = ["Adapt", "ArrayInterface", "Compat", "DataStructures", "FiniteDiff", "ForwardDiff", "LightGraphs", "LinearAlgebra", "Requires", "SparseArrays", "StaticArrays", "VertexSafeGraphs"]
-git-tree-sha1 = "aebcead0644d3b3396c205a09544590b5115e282"
+git-tree-sha1 = "1d9f8d4fbcef6b2bf6447f95149cf74615a0ab7b"
 uuid = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
-version = "1.16.4"
+version = "1.16.1"
 
 [[SpecialFunctions]]
 deps = ["ChainRulesCore", "LogExpFunctions", "OpenSpecFun_jll"]

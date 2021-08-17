@@ -2,9 +2,9 @@
 
 [[AbstractAlgebra]]
 deps = ["InteractiveUtils", "LinearAlgebra", "Markdown", "Random", "RandomExtensions", "SparseArrays", "Test"]
-git-tree-sha1 = "11f56bb196abe983e0fe5c238c3a75d8a3c94f2a"
+git-tree-sha1 = "7079b4759f07fd27e621fc480a36a2fb1e43e0d5"
 uuid = "c3fe647b-3220-5bb0-a1ea-a7954cac585d"
-version = "0.21.0"
+version = "0.19.0"
 
 [[AbstractTrees]]
 git-tree-sha1 = "03e0550477d86222521d254b741d470ba17ea0b5"
@@ -86,10 +86,10 @@ uuid = "83423d85-b0ee-5818-9007-b63ccbeb887a"
 version = "1.16.0+6"
 
 [[Catalyst]]
-deps = ["AbstractAlgebra", "DataStructures", "DiffEqBase", "DiffEqJump", "DocStringExtensions", "Latexify", "MacroTools", "ModelingToolkit", "Parameters", "Reexport", "Requires", "Symbolics"]
-git-tree-sha1 = "79c06d9407195a22ce74436083a8c9644afaf95b"
+deps = ["AbstractAlgebra", "DataStructures", "DocStringExtensions", "Latexify", "MacroTools", "ModelingToolkit", "Parameters", "Reexport", "Requires", "Symbolics"]
+git-tree-sha1 = "dd981ebeecacc916d8506af723aea69096f6b08e"
 uuid = "479239e8-5488-4da2-87a7-35f2df7eef83"
-version = "8.2.0"
+version = "7.0.0"
 
 [[ChainRulesCore]]
 deps = ["Compat", "LinearAlgebra", "SparseArrays"]
@@ -728,9 +728,9 @@ uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
 [[ModelingToolkit]]
 deps = ["AbstractTrees", "ArrayInterface", "ConstructionBase", "DataStructures", "DiffEqBase", "DiffEqCallbacks", "DiffEqJump", "DiffRules", "Distributed", "Distributions", "DocStringExtensions", "DomainSets", "IfElse", "InteractiveUtils", "JuliaFormatter", "LabelledArrays", "Latexify", "Libdl", "LightGraphs", "LinearAlgebra", "MacroTools", "NaNMath", "NonlinearSolve", "RecursiveArrayTools", "Reexport", "Requires", "RuntimeGeneratedFunctions", "SafeTestsets", "SciMLBase", "Serialization", "Setfield", "SparseArrays", "SpecialFunctions", "StaticArrays", "SymbolicUtils", "Symbolics", "UnPack", "Unitful"]
-git-tree-sha1 = "23d95f86de1c527f7bffa9a4f5316557f79aa874"
+git-tree-sha1 = "b6225318d687dbde588c6d0cd0b40161826763b1"
 uuid = "961ee093-0014-501f-94e3-6117800e7a78"
-version = "6.4.0"
+version = "5.26.0"
 
 [[MozillaCACerts_jll]]
 uuid = "14a3606d-f60d-562e-9121-12d972cd8159"
@@ -849,9 +849,9 @@ version = "0.11.1"
 
 [[ParameterizedFunctions]]
 deps = ["DataStructures", "DiffEqBase", "DocStringExtensions", "Latexify", "LinearAlgebra", "ModelingToolkit", "Reexport", "SciMLBase"]
-git-tree-sha1 = "c2d9813bdcf47302a742a1f5956d7de274acec12"
+git-tree-sha1 = "74cc1a66c45c7022e2504060596d703f6ab0587f"
 uuid = "65888b18-ceab-5e60-b2b9-181511a3b968"
-version = "5.12.1"
+version = "5.11.0"
 
 [[Parameters]]
 deps = ["OrderedCollections", "UnPack"]
@@ -1185,9 +1185,9 @@ version = "0.13.3"
 
 [[Symbolics]]
 deps = ["ConstructionBase", "DiffRules", "Distributions", "DocStringExtensions", "DomainSets", "IfElse", "Latexify", "Libdl", "LinearAlgebra", "MacroTools", "NaNMath", "RecipesBase", "Reexport", "Requires", "RuntimeGeneratedFunctions", "SciMLBase", "Setfield", "SparseArrays", "SpecialFunctions", "StaticArrays", "SymbolicUtils", "TreeViews"]
-git-tree-sha1 = "9d6e12adb9d8e059fd915ebcda2a5a84a440382d"
+git-tree-sha1 = "dae26a27018d0cad7efd585a9a0012c6a2752a88"
 uuid = "0c5d862f-8b57-4792-8d23-62f2024744c7"
-version = "3.1.0"
+version = "1.4.2"
 
 [[TOML]]
 deps = ["Dates"]

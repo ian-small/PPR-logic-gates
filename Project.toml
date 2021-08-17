@@ -1,6 +1,7 @@
 [deps]
 CPUSummary = "2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9"
 Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 DiffEqBase = "2b5f629d-d688-5b77-993f-72d75c75574e"
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"

@@ -1,16 +1,9 @@
+name = "PPR-logic-gates"
+uuid = "d264d1b0-9b65-481e-ace3-bc1383acb294"
+authors = ["Ian Small <ian.small@uwa.edu.au>"]
+version = "0.1.0"
+
 [deps]
-CPUSummary = "2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9"
 Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
-Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
-DiffEqBase = "2b5f629d-d688-5b77-993f-72d75c75574e"
-DiffRules = "b552c78f-8df3-52c6-915a-8e097449b14b"
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
-LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
-OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
-RecursiveArrayTools = "731186ca-8d62-57ce-b412-fbd966d074cd"
-SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
-SparseDiffTools = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
-StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
-StrideArraysCore = "7792a7ef-975c-4747-a70f-980b88e8d1da"
-TriangularSolve = "d5829a12-d9aa-46ab-831f-fb7c9ab06edf"
